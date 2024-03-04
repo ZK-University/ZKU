@@ -2,7 +2,7 @@
 description: Open-source archive of the ZKU online course
 ---
 
-> We are currently migrating materials from Cohort 5 on zku.gnomio.com to this repository. You can contribute by accessing through guest login on the platform, copying and formatting the content and submitting a pull request.
+> We are currently migrating materials from Cohort 5 on zku.gnomio.com to this repository. You can contribute by accessing through guest login on the platform, copying and formatting the content, and submitting a pull request at https://github.com/ZK-University/ZKU
 
 # About ZKU
 
