@@ -48,7 +48,7 @@ Circom is perhaps the single most important tool we will be using throughout thi
     3. In `test/test.js`, add the unit tests for `Multiplier3` for both the Groth16 and PLONK versions. Include a screenshot of all the tests (for `HelloWorld, Multiplier3 with Groth16`, and `Multiplier3 with PLONK`) passing in your PDF file.
 
 
-Part 3 Reading and designing circuits with circom
+## Part 3 Reading and designing circuits with circom
 
 Though it will be nice if we write entirely innovative circuits for every project we create, we should also utilize existing circuit libraries to help us. In this question, you will be learning about two such libraries that you can import to create more complicated circuits. To start, go into the `Q3` directory in `Week 1` repo and run `npm install` in each project folder to install the dependencies.
 
