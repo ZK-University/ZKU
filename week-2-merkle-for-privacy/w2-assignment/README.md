@@ -54,7 +54,7 @@ In this question, we will visit the different types of hashes available in Circo
 
      4. Copy your modified `custom.test.js` into `week2/custom.test.modified.js` for submission, so you don’t have to commit the submodule. 
 
-4. [bonus] Try out Tornado Classic on Goerli testnet and attach screenshots at deposit and withdrawal in the PDF file. .
+4. [bonus] Try out Tornado Classic on Goerli testnet and attach screenshots at deposit and withdrawal in the PDF file.
 
 
 ## Part 3 Semaphore 
