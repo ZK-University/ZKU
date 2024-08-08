@@ -4,9 +4,9 @@
 
 This week we'll cover some basics in bridges and rollups. We believe the world will be cross-chain and Harmony is investing heavily in being at the center of this new world. To achieve this, we need some way of communicating between L1 and L2 blockchains and this can be achieved efficiently with bridges. However, just as different blockchains have different stances on the [scalability trilema](https://vitalik.eth.limo/general/2021/04/07/sharding.html), different bridges have different stances on the [interoperability trilemma](https://blog.connext.network/the-interoperability-trilemma-657c2cf69f17). With zero knowledge we can take bridges even further. We can have bridges with focus on the privacy of the users. Some good examples are Webb and Aztec. 
 
-[![Webb](https://img.youtube.com/vi/8Te5TkcYi54/default.jpg)](https://youtu.be/8Te5TkcYi54)
+{% embed url="https://youtu.be/8Te5TkcYi54" %}
 
-[![Aztec](https://img.youtube.com/vi/YyAaZb5ALCM/default.jpg)](https://youtu.be/YyAaZb5ALCM)
+{% embed url="https://youtu.be/YyAaZb5ALCM" %}
 
 ## Rollups
 
